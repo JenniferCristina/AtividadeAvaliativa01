@@ -120,7 +120,7 @@
              <div class="card-body">
                <h5 class="card-title">Agulhas de crochê</h5>
                <p class= "card-text">Kit com 5 agulhas de crochê de vários tamanhos </p>
-               <a style = "background-color: lightpink" href="#" class= "btn btn-primary">Buy</a>
+               <a style = "background-color: lightpink" href="#" class= "btn btn-primary">Comprar</a>
 
           </div>
     </div>
@@ -208,3 +208,5 @@
 
   </body>
 </html> 
+
+
